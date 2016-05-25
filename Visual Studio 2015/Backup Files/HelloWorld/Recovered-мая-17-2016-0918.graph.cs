@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HelloApp.Entities
+{
+    public class TEdge
+    {
+        public int row;
+        public int col;
+        public int val;
+        public TEdge(int r, int c, int v)
+        {
+            this.row = r;
+            this.col = c;
+            this.val = v;
+        }
+        
+    }
+    public class GraphMatrix
+    {
+        public int[] pointerB; // указатели на начало списка связанных ребер
+        public int[] column; // индексы связанных вершин
+        public int[] value; // веса ребер
+        public int sizeV; // количество вершин
+        public int sizeE; // количество ребер
+    }
+}

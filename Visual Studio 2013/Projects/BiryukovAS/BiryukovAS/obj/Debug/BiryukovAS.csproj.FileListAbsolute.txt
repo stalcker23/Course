@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2013\Projects\BiryukovAS\BiryukovAS\bin\Debug\BiryukovAS.exe.config
+c:\users\1\documents\visual studio 2013\Projects\BiryukovAS\BiryukovAS\bin\Debug\BiryukovAS.exe
+c:\users\1\documents\visual studio 2013\Projects\BiryukovAS\BiryukovAS\bin\Debug\BiryukovAS.pdb
+c:\users\1\documents\visual studio 2013\Projects\BiryukovAS\BiryukovAS\obj\Debug\BiryukovAS.exe
+c:\users\1\documents\visual studio 2013\Projects\BiryukovAS\BiryukovAS\obj\Debug\BiryukovAS.pdb

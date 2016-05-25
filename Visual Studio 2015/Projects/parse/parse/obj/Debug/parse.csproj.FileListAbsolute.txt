@@ -1,0 +1,7 @@
+c:\users\артем\documents\visual studio 2015\Projects\parse\parse\bin\Debug\parse.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\parse\parse\bin\Debug\parse.exe
+c:\users\артем\documents\visual studio 2015\Projects\parse\parse\bin\Debug\parse.pdb
+c:\users\артем\documents\visual studio 2015\Projects\parse\parse\obj\Debug\parse.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\parse\parse\obj\Debug\parse.exe
+c:\users\артем\documents\visual studio 2015\Projects\parse\parse\obj\Debug\parse.pdb
+c:\users\артем\documents\visual studio 2015\Projects\parse\parse\bin\Debug\rome99.txt

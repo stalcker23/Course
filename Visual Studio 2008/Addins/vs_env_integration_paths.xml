@@ -1,0 +1,14 @@
+<root>
+	<product name="MKL" version="10.1.2.026">
+		<BIN_DIR mode="ia32">C:\Program Files\Intel\MKL\10.1.2.026\ia32\bin\</BIN_DIR>
+		<LIB_DIR mode="ia32">C:\Program Files\Intel\MKL\10.1.2.026\ia32\lib\</LIB_DIR>
+		<BIN_DIR mode="em64t">C:\Program Files\Intel\MKL\10.1.2.026\em64t\bin\</BIN_DIR>
+		<LIB_DIR mode="em64t">C:\Program Files\Intel\MKL\10.1.2.026\em64t\lib\</LIB_DIR>
+		<BIN_DIR mode="ia64">C:\Program Files\Intel\MKL\10.1.2.026\ia64\bin\</BIN_DIR>
+		<LIB_DIR mode="ia64">C:\Program Files\Intel\MKL\10.1.2.026\ia64\lib\</LIB_DIR>
+		<INCLUDE_DIR>C:\Program Files\Intel\MKL\10.1.2.026\include\</INCLUDE_DIR>
+		<ADDITIONAL_DEPENDENCIES mode="ia32">mkl_solver.lib;mkl_intel_c_dll.lib;mkl_intel_thread_dll.lib;mkl_core_dll.lib;libiomp5md.lib</ADDITIONAL_DEPENDENCIES>
+		<ADDITIONAL_DEPENDENCIES mode="em64t">mkl_solver_lp64.lib;mkl_intel_lp64.lib;mkl_intel_thread_dll.lib;mkl_core_dll.lib;libiomp5md.lib</ADDITIONAL_DEPENDENCIES>
+		<ADDITIONAL_DEPENDENCIES mode="ia64">mkl_solver_lp64.lib;mkl_intel_lp64.lib;mkl_intel_thread_dll.lib;mkl_core_dll.lib;libiomp5md.lib</ADDITIONAL_DEPENDENCIES>
+	</product>
+</root>

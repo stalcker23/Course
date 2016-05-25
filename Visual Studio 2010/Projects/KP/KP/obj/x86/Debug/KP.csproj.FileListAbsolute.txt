@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2010\Projects\KP\KP\bin\Debug\KP.exe
+c:\users\1\documents\visual studio 2010\Projects\KP\KP\bin\Debug\KP.pdb
+c:\users\1\documents\visual studio 2010\Projects\KP\KP\obj\x86\Debug\KP.exe
+c:\users\1\documents\visual studio 2010\Projects\KP\KP\obj\x86\Debug\KP.pdb
+C:\Users\1\Documents\Visual Studio 2010\Projects\KP\KP\obj\x86\Debug\KP.csprojResolveAssemblyReference.cache

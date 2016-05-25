@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\bin\Debug\19.II.exe.config
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\bin\Debug\19.II.exe
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\bin\Debug\19.II.pdb
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\obj\Debug\19.II.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\obj\Debug\_19.II.Form1.resources
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\obj\Debug\_19.II.Properties.Resources.resources
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\obj\Debug\19.II.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\obj\Debug\19.II.exe
+c:\users\1\documents\visual studio 2013\Projects\19.II\19.II\obj\Debug\19.II.pdb

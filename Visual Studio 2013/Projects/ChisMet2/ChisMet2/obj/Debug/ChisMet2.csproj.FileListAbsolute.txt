@@ -1,0 +1,6 @@
+c:\users\артем\documents\visual studio 2013\Projects\ChisMet2\ChisMet2\bin\Debug\ChisMet2.exe.config
+c:\users\артем\documents\visual studio 2013\Projects\ChisMet2\ChisMet2\bin\Debug\ChisMet2.exe
+c:\users\артем\documents\visual studio 2013\Projects\ChisMet2\ChisMet2\bin\Debug\ChisMet2.pdb
+c:\users\артем\documents\visual studio 2013\Projects\ChisMet2\ChisMet2\obj\Debug\ChisMet2.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2013\Projects\ChisMet2\ChisMet2\obj\Debug\ChisMet2.exe
+c:\users\артем\documents\visual studio 2013\Projects\ChisMet2\ChisMet2\obj\Debug\ChisMet2.pdb

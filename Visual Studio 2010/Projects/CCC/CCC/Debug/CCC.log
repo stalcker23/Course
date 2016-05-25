@@ -1,0 +1,22 @@
+﻿Build started 12.04.2015 20:03:22.
+     1>Project "C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\CCC\CCC.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CCC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       SetVCMKLEnvironment:
+         Deleting file "C:\Users\1\AppData\Local\Temp\tmpDCB6.tmp".
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\CCC.unsuccessfulbuild".
+         Touching "Debug\CCC.lastbuildstate".
+     1>Done Building Project "C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\CCC\CCC.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14

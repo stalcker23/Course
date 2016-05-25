@@ -1,0 +1,6 @@
+c:\users\артем\documents\visual studio 2015\Projects\Edmonds-Karp\Edmonds-Karp\bin\Debug\Edmonds-Karp.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\Edmonds-Karp\Edmonds-Karp\obj\Debug\Edmonds-Karp.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\Edmonds-Karp\Edmonds-Karp\bin\Debug\Edmonds-Karp.exe
+c:\users\артем\documents\visual studio 2015\Projects\Edmonds-Karp\Edmonds-Karp\bin\Debug\Edmonds-Karp.pdb
+c:\users\артем\documents\visual studio 2015\Projects\Edmonds-Karp\Edmonds-Karp\obj\Debug\Edmonds-Karp.exe
+c:\users\артем\documents\visual studio 2015\Projects\Edmonds-Karp\Edmonds-Karp\obj\Debug\Edmonds-Karp.pdb

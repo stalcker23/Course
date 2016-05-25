@@ -1,0 +1,12 @@
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_Newton\SNAU_Newton\bin\Debug\SNAU_Newton.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_Newton\SNAU_Newton\bin\Debug\SNAU_Newton.exe
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_Newton\SNAU_Newton\bin\Debug\SNAU_Newton.pdb
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_Newton\SNAU_Newton\obj\Debug\SNAU_Newton.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_Newton\SNAU_Newton\obj\Debug\SNAU_Newton.exe
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_Newton\SNAU_Newton\obj\Debug\SNAU_Newton.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SNAU_Newton\SNAU_Newton\bin\Debug\SNAU_Newton.exe.config
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SNAU_Newton\SNAU_Newton\obj\Debug\SNAU_Newton.exe
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SNAU_Newton\SNAU_Newton\obj\Debug\SNAU_Newton.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SNAU_Newton\SNAU_Newton\bin\Debug\SNAU_Newton.exe
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SNAU_Newton\SNAU_Newton\bin\Debug\SNAU_Newton.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SNAU_Newton\SNAU_Newton\obj\Debug\SNAU_Newton.csprojResolveAssemblyReference.cache

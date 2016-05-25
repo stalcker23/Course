@@ -1,0 +1,20 @@
+c:\users\artyom\documents\visual studio 2010\Projects\18.10\18.10\bin\Debug\18.10.exe
+c:\users\artyom\documents\visual studio 2010\Projects\18.10\18.10\bin\Debug\18.10.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\18.10\18.10\obj\x86\Debug\18.10.exe
+c:\users\artyom\documents\visual studio 2010\Projects\18.10\18.10\obj\x86\Debug\18.10.pdb
+G:\Projects\18.10\18.10\obj\x86\Debug\18.10.exe
+G:\Projects\18.10\18.10\obj\x86\Debug\18.10.pdb
+G:\Projects\18.10\18.10\bin\Debug\18.10.exe
+G:\Projects\18.10\18.10\bin\Debug\18.10.pdb
+E:\Projects\18.10\18.10\obj\x86\Debug\18.10.exe
+E:\Projects\18.10\18.10\obj\x86\Debug\18.10.pdb
+E:\Projects\18.10\18.10\bin\Debug\18.10.exe
+E:\Projects\18.10\18.10\bin\Debug\18.10.pdb
+E:\Projects\18.10\18.10\obj\x86\Debug\18.10.csprojResolveAssemblyReference.cache
+D:\Projects\18.10\18.10\obj\x86\Debug\18.10.exe
+D:\Projects\18.10\18.10\obj\x86\Debug\18.10.pdb
+D:\Projects\18.10\18.10\bin\Debug\18.10.exe
+D:\Projects\18.10\18.10\bin\Debug\18.10.pdb
+D:\Projects\18.10\18.10\obj\x86\Debug\18.10.csprojResolveAssemblyReference.cache
+G:\Projects\18.10\18.10\obj\x86\Debug\18.10.csprojResolveAssemblyReference.cache
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\18.10\18.10\obj\x86\Debug\18.10.csprojResolveAssemblyReference.cache

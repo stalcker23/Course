@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/LTCG"
+LINK : fatal error LNK1181: не удается открыть входной файл "cufft.lib"

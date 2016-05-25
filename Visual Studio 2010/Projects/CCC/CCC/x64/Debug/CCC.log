@@ -1,0 +1,44 @@
+﻿Build started 12.04.2015 13:23:09.
+     1>Project "C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\CCC\CCC.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\CCC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       SetVCMKLEnvironment:
+         Deleting file "C:\Users\1\AppData\Local\Temp\tmp782B.tmp".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\include" /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt main.cpp decision.cpp fft.cpp hce_functions.cpp stdafx.cpp
+         stdafx.cpp
+         hce_functions.cpp
+         fft.cpp
+     1>fft.cpp(19): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         decision.cpp
+         main.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\CCC.exe.embed.manifest.res" x64\Debug\CCC_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\x64\Debug\CCC.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\lib\x64" mkl_intel_lp64_dll.lib mkl_sequential_dll.lib mkl_core_dll.lib "libfftw3-3.lib" "libfftw3l-3.lib" "libfftw3f-3.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\CCC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\x64\Debug\CCC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\x64\Debug\CCC.lib" /MACHINE:X64 x64\Debug\CCC.exe.embed.manifest.res
+         x64\Debug\main.obj
+         x64\Debug\decision.obj
+         x64\Debug\fft.obj
+         x64\Debug\hce_functions.obj
+         x64\Debug\stdafx.obj
+         CCC.vcxproj -> C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\x64\Debug\CCC.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\CCC.exe.embed.manifest" /manifest x64\Debug\CCC.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\CCC.exe.embed.manifest.res" x64\Debug\CCC_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\x64\Debug\CCC.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\lib\x64" mkl_intel_lp64_dll.lib mkl_sequential_dll.lib mkl_core_dll.lib "libfftw3-3.lib" "libfftw3l-3.lib" "libfftw3f-3.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\CCC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\x64\Debug\CCC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\x64\Debug\CCC.lib" /MACHINE:X64 x64\Debug\CCC.exe.embed.manifest.res
+         x64\Debug\main.obj
+         x64\Debug\decision.obj
+         x64\Debug\fft.obj
+         x64\Debug\hce_functions.obj
+         x64\Debug\stdafx.obj
+         CCC.vcxproj -> C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\x64\Debug\CCC.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\CCC.unsuccessfulbuild".
+         Touching "x64\Debug\CCC.lastbuildstate".
+     1>Done Building Project "C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\CCC\CCC.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.19

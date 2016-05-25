@@ -1,0 +1,6 @@
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_2\bin\Debug\EPAM_Test_2.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_2\bin\Debug\EPAM_Test_2.exe
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_2\bin\Debug\EPAM_Test_2.pdb
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_2\obj\Debug\EPAM_Test_2.exe
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_2\obj\Debug\EPAM_Test_2.pdb
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_2\obj\Debug\EPAM_Test_2.csprojResolveAssemblyReference.cache

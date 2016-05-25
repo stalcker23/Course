@@ -1,0 +1,14 @@
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\HelloApp.Client.exe.config
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\HelloApp.Client.exe
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\HelloApp.Client.pdb
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\HelloApp.Entities.dll
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\HelloApp.Entities.pdb
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\obj\Debug\HelloApp.Client.csprojResolveAssemblyReference.cache
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\obj\Debug\HelloApp.Client.exe
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Client\obj\Debug\HelloApp.Client.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\HelloWorld\HelloApp.Client\bin\Debug\rome99.txt

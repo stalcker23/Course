@@ -1,0 +1,35 @@
+﻿Сборка начата 21.03.2016 10:31:08.
+     1>Проект "C:\Users\Артем\Documents\Visual Studio 2015\Projects\Graphics_3\Graphics_3\Graphics_3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(182): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(185): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(188): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(191): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(206): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(209): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(212): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(212): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(215): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(215): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(218): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(218): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(221): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(221): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(227): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(235): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(243): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\graphics_3\graphics_3\MyForm.h(251): warning C4305: аргумент: усечение из "double" к "float"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Артем\Documents\Visual Studio 2015\Projects\Graphics_3\Debug\Graphics_3.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Graphics_3.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Артем\Documents\Visual Studio 2015\Projects\Graphics_3\Debug\Graphics_3.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Graphics_3.res
+         Debug\MyForm.obj
+         Debug\stdafx.obj
+         Debug\Transform.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         Graphics_3.vcxproj -> C:\Users\Артем\Documents\Visual Studio 2015\Projects\Graphics_3\Debug\Graphics_3.exe
+     1>Сборка проекта "C:\Users\Артем\Documents\Visual Studio 2015\Projects\Graphics_3\Graphics_3\Graphics_3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.50

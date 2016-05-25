@@ -1,0 +1,12 @@
+c:\users\1\documents\visual studio 2013\Projects\HAMILTON\HAMILTON\bin\Debug\HAMILTON.exe.config
+c:\users\1\documents\visual studio 2013\Projects\HAMILTON\HAMILTON\bin\Debug\HAMILTON.exe
+c:\users\1\documents\visual studio 2013\Projects\HAMILTON\HAMILTON\bin\Debug\HAMILTON.pdb
+c:\users\1\documents\visual studio 2013\Projects\HAMILTON\HAMILTON\obj\Debug\HAMILTON.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2013\Projects\HAMILTON\HAMILTON\obj\Debug\HAMILTON.exe
+c:\users\1\documents\visual studio 2013\Projects\HAMILTON\HAMILTON\obj\Debug\HAMILTON.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Graph\HAMILTON\bin\Debug\HAMILTON.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\Graph\HAMILTON\obj\Debug\HAMILTON.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\Graph\HAMILTON\obj\Debug\HAMILTON.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Graph\HAMILTON\obj\Debug\HAMILTON.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\Graph\HAMILTON\bin\Debug\HAMILTON.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\Graph\HAMILTON\bin\Debug\HAMILTON.pdb

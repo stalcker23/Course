@@ -1,0 +1,6 @@
+c:\users\артем\documents\visual studio 2013\Projects\Progonka\Progonka\bin\Debug\Progonka.exe
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Progonka\Progonka\bin\Debug\Progonka.exe.config
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Progonka\Progonka\obj\Debug\Progonka.exe
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Progonka\Progonka\obj\Debug\Progonka.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Progonka\Progonka\obj\Debug\Progonka.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Progonka\Progonka\bin\Debug\Progonka.pdb

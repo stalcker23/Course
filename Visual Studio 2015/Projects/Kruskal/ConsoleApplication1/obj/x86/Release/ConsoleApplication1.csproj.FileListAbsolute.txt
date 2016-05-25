@@ -1,0 +1,48 @@
+C:\Users\akimovaa\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\akimovaa\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\akimovaa\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\akimovaa\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Users\akimovaa\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\akimovaa\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+G:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+G:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+G:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+G:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+G:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+J:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+J:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+D:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Data.dll
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.dll
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Graphviz.dll
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Serialization.dll
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.xml
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Data.xml
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Graphviz.xml
+F:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Serialization.xml
+C:\Users\Артем\Downloads\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\Артем\Downloads\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Data.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Graphviz.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Serialization.dll
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Data.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Graphviz.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\bin\Release\QuickGraph.Serialization.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Kruskal\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache

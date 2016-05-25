@@ -1,0 +1,4 @@
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\Visual Studio 2013\Kruskal\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

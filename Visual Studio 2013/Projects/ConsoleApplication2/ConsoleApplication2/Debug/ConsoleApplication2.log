@@ -1,0 +1,20 @@
+﻿  ConsoleApplication2.cpp
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(1): error C2873: System: использование символа в "using"-объявлении не допускается
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(2): error C2143: синтаксическая ошибка: отсутствие ";" перед "."
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(2): error C2873: System: использование символа в "using"-объявлении не допускается
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(2): error C2059: синтаксическая ошибка: .
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(3): error C2143: синтаксическая ошибка: отсутствие ";" перед "."
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(3): error C2873: System: использование символа в "using"-объявлении не допускается
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(3): error C2059: синтаксическая ошибка: .
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): error C2143: синтаксическая ошибка: отсутствие ";" перед "."
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): error C2873: System: использование символа в "using"-объявлении не допускается
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): error C2059: синтаксическая ошибка: .
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(5): error C2143: синтаксическая ошибка: отсутствие ";" перед "."
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(5): error C2873: System: использование символа в "using"-объявлении не допускается
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(5): error C2059: синтаксическая ошибка: .
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "."
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(6): error C2873: System: использование символа в "using"-объявлении не допускается
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(6): error C2059: синтаксическая ошибка: .
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): error C2059: синтаксическая ошибка: .
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)

@@ -1,0 +1,12 @@
+c:\users\артем\documents\visual studio 2015\Projects\SLAU\SLAU\bin\Debug\SLAU.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\SLAU\SLAU\bin\Debug\SLAU.exe
+c:\users\артем\documents\visual studio 2015\Projects\SLAU\SLAU\bin\Debug\SLAU.pdb
+c:\users\артем\documents\visual studio 2015\Projects\SLAU\SLAU\obj\Debug\SLAU.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\SLAU\SLAU\obj\Debug\SLAU.exe
+c:\users\артем\documents\visual studio 2015\Projects\SLAU\SLAU\obj\Debug\SLAU.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SLAU\SLAU\bin\Debug\SLAU.exe.config
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SLAU\SLAU\obj\Debug\SLAU.exe
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SLAU\SLAU\obj\Debug\SLAU.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SLAU\SLAU\bin\Debug\SLAU.exe
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SLAU\SLAU\bin\Debug\SLAU.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\SLAU\SLAU\obj\Debug\SLAU.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+﻿Сборка начата 05.04.2015 20:01:04.
+     1>Проект "C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FHCE\FHCE.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (FHCE.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Release\FFTW.exe" /INCREMENTAL:NO /NOLOGO mkl_intel_c_dll.lib mkl_sequential_dll.lib mkl_core_dll.lib "libfftw3l-3.lib" "libfftw3f-3.lib" "libfftw3-3.lib" mkl_core.lib mkl_sequential.lib mkl_intel_c.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Release\FFTW.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Release\FFTW.lib" /MACHINE:X86 /SAFESEH Release\decision.obj
+         Release\fft.obj
+         Release\hce_functions.obj
+         Release\main.obj
+         Создание кода
+         Создание кода завершено
+         FHCE.vcxproj -> C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Release\FFTW.exe
+     1>Сборка проекта "C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FHCE\FHCE.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.18

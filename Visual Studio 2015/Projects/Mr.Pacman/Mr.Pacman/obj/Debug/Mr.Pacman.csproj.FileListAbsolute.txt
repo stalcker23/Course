@@ -1,0 +1,1 @@
+c:\users\артем\documents\visual studio 2015\Projects\Mr.Pacman\Mr.Pacman\bin\Debug\Mr.Pacman.exe.config

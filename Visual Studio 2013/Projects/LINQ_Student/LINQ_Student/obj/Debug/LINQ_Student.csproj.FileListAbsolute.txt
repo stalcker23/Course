@@ -1,0 +1,6 @@
+c:\users\артем\documents\visual studio 2013\Projects\LINQ_Student\LINQ_Student\bin\Debug\LINQ_Student.exe.config
+c:\users\артем\documents\visual studio 2013\Projects\LINQ_Student\LINQ_Student\bin\Debug\LINQ_Student.exe
+c:\users\артем\documents\visual studio 2013\Projects\LINQ_Student\LINQ_Student\bin\Debug\LINQ_Student.pdb
+c:\users\артем\documents\visual studio 2013\Projects\LINQ_Student\LINQ_Student\obj\Debug\LINQ_Student.exe
+c:\users\артем\documents\visual studio 2013\Projects\LINQ_Student\LINQ_Student\obj\Debug\LINQ_Student.pdb
+c:\users\артем\documents\visual studio 2013\Projects\LINQ_Student\LINQ_Student\obj\Debug\LINQ_Student.csprojResolveAssemblyReference.cache

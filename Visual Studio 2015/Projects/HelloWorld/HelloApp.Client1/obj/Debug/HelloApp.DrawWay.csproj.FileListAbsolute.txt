@@ -1,0 +1,3 @@
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\HelloWorld\HelloApp.Client1\bin\Debug\HelloApp.Client1.exe.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\HelloWorld\HelloApp.Client1\obj\Debug\HelloApp.Client1.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\HelloWorld\HelloApp.Client1\obj\Debug\HelloApp.Client1.pdb

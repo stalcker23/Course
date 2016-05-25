@@ -1,0 +1,16 @@
+﻿Build started 12.04.2015 18:34:40.
+     1>Project "C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\Parallel\Parallel.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Parallel.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt decision.cpp main.cpp
+         main.cpp
+     1>c:\users\1\documents\visual studio 2010\projects\ccc\parallel\main.cpp(7): fatal error C1083: Cannot open include file: 'fftw3.h': No such file or directory
+         decision.cpp
+     1>c:\users\1\documents\visual studio 2010\projects\ccc\parallel\decision.cpp(4): fatal error C1083: Cannot open include file: 'fft.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\Parallel\Parallel.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.88

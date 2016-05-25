@@ -1,0 +1,6 @@
+c:\users\artyom\documents\visual studio 2010\Projects\12.1\12.1\bin\Debug\12.1.exe
+c:\users\artyom\documents\visual studio 2010\Projects\12.1\12.1\bin\Debug\12.1.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\12.1\12.1\obj\x86\Debug\12.1.exe
+c:\users\artyom\documents\visual studio 2010\Projects\12.1\12.1\obj\x86\Debug\12.1.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\12.1\12.1\obj\x86\Debug\12.1.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2010\Projects\12.1\12.1\obj\x86\Debug\12.1.exe

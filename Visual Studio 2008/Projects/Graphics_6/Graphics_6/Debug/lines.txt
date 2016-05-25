@@ -1,0 +1,80 @@
+frame -21 -3 1800 870
+
+translate 0 0
+figure
+
+pushTransform
+pushTransform
+pushTransform
+pushTransform
+#ширина клетки 45
+
+popTransform 
+translate 525 0
+figure
+
+popTransform 
+translate 1050 0
+figure
+
+popTransform 
+translate 1575 0
+figure
+
+pushTransform
+
+popTransform 
+translate 200 460
+scale 2
+rotate -90
+figure
+
+pushTransform
+pushTransform
+
+popTransform
+translate 0 728
+figure
+
+popTransform
+scale 0.5
+translate -530 812
+
+pushTransform
+pushTransform
+pushTransform
+pushTransform
+pushTransform
+
+popTransform
+translate 510 0
+figure
+
+popTransform
+translate 495 220
+rotate -30
+figure
+
+popTransform
+translate 410 -198
+rotate 30
+figure
+
+popTransform
+translate  380 390
+rotate -60
+figure
+
+popTransform
+translate  236 -312
+rotate 60
+figure
+
+#popTransform
+#scale 2.4
+#translate -109 -100
+#figure
+
+
+
+

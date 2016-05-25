@@ -1,0 +1,9 @@
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\bin\Debug\SimpleIterate.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\obj\Debug\SimpleIterate.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\obj\Debug\SimpleIterate.Properties.Resources.resources
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\obj\Debug\SimpleIterate.csproj.GenerateResource.Cache
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\obj\Debug\SimpleIterate.Form1.resources
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\bin\Debug\SimpleIterate.exe
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\bin\Debug\SimpleIterate.pdb
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\obj\Debug\SimpleIterate.exe
+c:\users\артем\documents\visual studio 2015\Projects\SimpleIterate\SimpleIterate\obj\Debug\SimpleIterate.pdb

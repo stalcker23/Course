@@ -1,0 +1,7 @@
+﻿  main.cpp
+  hce_functions.cpp
+  fft.cpp
+c:\users\1\documents\visual studio 2013\projects\hce\fhce\fft.cpp(19): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  decision.cpp
+  Создание кода...
+  FHCE.vcxproj -> C:\Users\1\Documents\Visual Studio 2013\Projects\HCE\Debug\FHCE.exe

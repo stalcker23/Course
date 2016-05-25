@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2013\Projects\Граф_2.1\Граф_2.1\bin\Debug\Граф_2.1.exe.config
+c:\users\1\documents\visual studio 2013\Projects\Граф_2.1\Граф_2.1\bin\Debug\Граф_2.1.exe
+c:\users\1\documents\visual studio 2013\Projects\Граф_2.1\Граф_2.1\bin\Debug\Граф_2.1.pdb
+c:\users\1\documents\visual studio 2013\Projects\Граф_2.1\Граф_2.1\obj\Debug\Граф_2.1.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2013\Projects\Граф_2.1\Граф_2.1\obj\Debug\Граф_2.1.exe
+c:\users\1\documents\visual studio 2013\Projects\Граф_2.1\Граф_2.1\obj\Debug\Граф_2.1.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Граф_2.1\Граф_2.1\bin\Debug\Граф_2.1.exe.config
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Граф_2.1\Граф_2.1\obj\Debug\Граф_2.1.exe
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Граф_2.1\Граф_2.1\obj\Debug\Граф_2.1.pdb

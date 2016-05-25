@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FHCE", "FHCE\FHCE.vcxproj", "{D23E5E9C-B45F-46E6-B754-52664CABF48B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParallelFHCE", "ParallelFHCE\ParallelFHCE.vcxproj", "{140BA120-2392-47EB-8A96-BB7DBB995996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23E5E9C-B45F-46E6-B754-52664CABF48B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D23E5E9C-B45F-46E6-B754-52664CABF48B}.Debug|Win32.Build.0 = Debug|Win32
+		{D23E5E9C-B45F-46E6-B754-52664CABF48B}.Release|Win32.ActiveCfg = Release|Win32
+		{D23E5E9C-B45F-46E6-B754-52664CABF48B}.Release|Win32.Build.0 = Release|Win32
+		{140BA120-2392-47EB-8A96-BB7DBB995996}.Debug|Win32.ActiveCfg = Debug|Win32
+		{140BA120-2392-47EB-8A96-BB7DBB995996}.Debug|Win32.Build.0 = Debug|Win32
+		{140BA120-2392-47EB-8A96-BB7DBB995996}.Release|Win32.ActiveCfg = Release|Win32
+		{140BA120-2392-47EB-8A96-BB7DBB995996}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

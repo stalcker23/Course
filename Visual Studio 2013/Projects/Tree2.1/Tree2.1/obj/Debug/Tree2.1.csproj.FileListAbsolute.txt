@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2013\Projects\Tree2.1\Tree2.1\bin\Debug\Tree2.1.exe.config
+c:\users\1\documents\visual studio 2013\Projects\Tree2.1\Tree2.1\obj\Debug\Tree2.1.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2013\Projects\Tree2.1\Tree2.1\bin\Debug\Tree2.1.exe
+c:\users\1\documents\visual studio 2013\Projects\Tree2.1\Tree2.1\bin\Debug\Tree2.1.pdb
+c:\users\1\documents\visual studio 2013\Projects\Tree2.1\Tree2.1\obj\Debug\Tree2.1.exe
+c:\users\1\documents\visual studio 2013\Projects\Tree2.1\Tree2.1\obj\Debug\Tree2.1.pdb

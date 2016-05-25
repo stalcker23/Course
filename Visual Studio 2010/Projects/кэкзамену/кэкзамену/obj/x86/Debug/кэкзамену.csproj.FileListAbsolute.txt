@@ -1,0 +1,7 @@
+C:\Users\1\Documents\Visual Studio 2010\Projects\кэкзамену\кэкзамену\bin\Debug\кэкзамену.exe
+C:\Users\1\Documents\Visual Studio 2010\Projects\кэкзамену\кэкзамену\bin\Debug\кэкзамену.pdb
+C:\Users\1\Documents\Visual Studio 2010\Projects\кэкзамену\кэкзамену\obj\x86\Debug\кэкзамену.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2010\Projects\кэкзамену\кэкзамену\obj\x86\Debug\кэкзамену.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2010\Projects\кэкзамену\кэкзамену\obj\x86\Debug\кэкзамену.exe
+C:\Users\1\Documents\Visual Studio 2010\Projects\кэкзамену\кэкзамену\obj\x86\Debug\кэкзамену.pdb
+C:\Users\1\Documents\Visual Studio 2010\Projects\кэкзамену\кэкзамену\obj\x86\Debug\кэкзамену.csprojResolveAssemblyReference.cache

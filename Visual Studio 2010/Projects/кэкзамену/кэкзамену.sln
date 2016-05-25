@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "кэкзамену", "кэкзамену\кэкзамену.csproj", "{8E98AE17-F879-4084-950D-533BFBDAECE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{93CC8C0E-AC77-4D27-BA09-26479237228E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E98AE17-F879-4084-950D-533BFBDAECE8}.Debug|x86.ActiveCfg = Debug|x86
+		{8E98AE17-F879-4084-950D-533BFBDAECE8}.Debug|x86.Build.0 = Debug|x86
+		{8E98AE17-F879-4084-950D-533BFBDAECE8}.Release|x86.ActiveCfg = Release|x86
+		{8E98AE17-F879-4084-950D-533BFBDAECE8}.Release|x86.Build.0 = Release|x86
+		{93CC8C0E-AC77-4D27-BA09-26479237228E}.Debug|x86.ActiveCfg = Debug|x86
+		{93CC8C0E-AC77-4D27-BA09-26479237228E}.Debug|x86.Build.0 = Debug|x86
+		{93CC8C0E-AC77-4D27-BA09-26479237228E}.Release|x86.ActiveCfg = Release|x86
+		{93CC8C0E-AC77-4D27-BA09-26479237228E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

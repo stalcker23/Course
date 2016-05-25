@@ -1,0 +1,10 @@
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\bin\Debug\figure.xml
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\bin\Debug\Task_3.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\obj\Debug\Task_3_ADO.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\obj\Debug\Task_3.Form1.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\obj\Debug\Task_3_ADO.csproj.GenerateResource.Cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\obj\Debug\Task_3.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Task_3_ADO\Task_3\obj\Debug\Task_3.pdb

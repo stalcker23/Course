@@ -1,0 +1,10 @@
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\bin\Debug\SerializeFigure.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\bin\Debug\SerializeFigure.exe
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\bin\Debug\SerializeFigure.pdb
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\obj\Debug\SerializeFigure.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\obj\Debug\SerializeFigure.Form1.resources
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\obj\Debug\SerializeFigure.Properties.Resources.resources
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\obj\Debug\SerializeFigure.csproj.GenerateResource.Cache
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\obj\Debug\SerializeFigure.exe
+c:\users\артем\documents\visual studio 2015\Projects\SerializeFigure\SerializeFigure\obj\Debug\SerializeFigure.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\SerializeFigure\SerializeFigure\bin\Debug\serialize.txt

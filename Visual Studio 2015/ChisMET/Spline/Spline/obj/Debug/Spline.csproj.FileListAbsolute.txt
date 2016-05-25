@@ -1,0 +1,5 @@
+c:\users\артем\documents\visual studio 2015\Projects\Spline\Spline\bin\Debug\Spline.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\Spline\Spline\bin\Debug\Spline.exe
+c:\users\артем\documents\visual studio 2015\Projects\Spline\Spline\bin\Debug\Spline.pdb
+c:\users\артем\documents\visual studio 2015\Projects\Spline\Spline\obj\Debug\Spline.exe
+c:\users\артем\documents\visual studio 2015\Projects\Spline\Spline\obj\Debug\Spline.pdb

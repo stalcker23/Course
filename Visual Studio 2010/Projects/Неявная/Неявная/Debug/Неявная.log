@@ -1,0 +1,4 @@
+﻿  Неявная.cpp
+  stdafx.cpp
+  Создание кода...
+LINK : fatal error LNK1207: несовместимый формат PDB в "C:\Users\1\Documents\Visual Studio 2010\Projects\Неявная\Debug\Неявная.pdb"; удалите и перестройте

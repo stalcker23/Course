@@ -1,0 +1,48 @@
+﻿  ConsoleApplication3.cpp
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(7): warning C4091: typedef : пропускается слева от "int", когда ни одна переменная не объявлена
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(7): error C2059: синтаксическая ошибка: <
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(9): warning C4091: typedef : пропускается слева от "int", когда ни одна переменная не объявлена
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(9): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(9): error C2059: синтаксическая ошибка: <
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(10): warning C4091: typedef : пропускается слева от "int", когда ни одна переменная не объявлена
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(10): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(10): error C2059: синтаксическая ошибка: <
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(16): error C2065: cin: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(17): error C2065: vvint: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(17): error C3861: c: идентификатор не найден
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(17): error C3861: vint: идентификатор не найден
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2065: cin: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2065: c: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): error C2065: vvint: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "f"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): error C3861: f: идентификатор не найден
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): error C3861: vint: идентификатор не найден
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(27): error C2065: vint: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(27): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "from"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(27): error C3861: from: идентификатор не найден
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C2065: vint: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "q"
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C3861: q: идентификатор не найден
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(30): error C2065: q: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(31): error C2065: from: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(34): error C2065: q: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(36): error C2065: from: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(37): error C2065: c: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(37): error C2065: f: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(39): error C2065: q: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(40): error C2065: from: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(44): error C2065: from: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(49): error C2065: from: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(50): error C2065: c: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(50): error C2065: f: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(50): error C3861: min: идентификатор не найден
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(56): error C2065: from: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(57): error C2065: f: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(58): error C2065: f: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(66): error C2065: c: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(67): error C2065: f: необъявленный идентификатор
+c:\users\1\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(69): error C2065: cout: необъявленный идентификатор

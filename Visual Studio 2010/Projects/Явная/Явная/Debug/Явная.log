@@ -1,0 +1,4 @@
+﻿  Явная.cpp
+  stdafx.cpp
+  Создание кода...
+LINK : fatal error LNK1207: несовместимый формат PDB в "C:\Users\1\Documents\Visual Studio 2010\Projects\Явная\Debug\Явная.pdb"; удалите и перестройте

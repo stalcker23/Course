@@ -1,0 +1,5 @@
+c:\users\artyom\documents\visual studio 2010\Projects\KP_Regex\KP_Regex\bin\Debug\KP_Regex.exe
+c:\users\artyom\documents\visual studio 2010\Projects\KP_Regex\KP_Regex\bin\Debug\KP_Regex.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\KP_Regex\KP_Regex\obj\x86\Debug\KP_Regex.exe
+c:\users\artyom\documents\visual studio 2010\Projects\KP_Regex\KP_Regex\obj\x86\Debug\KP_Regex.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\KP_Regex\KP_Regex\obj\x86\Debug\KP_Regex.csprojResolveAssemblyReference.cache

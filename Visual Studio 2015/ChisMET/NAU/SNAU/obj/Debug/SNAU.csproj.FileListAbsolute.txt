@@ -1,0 +1,9 @@
+c:\users\артем\documents\visual studio 2015\Projects\SNAU\SNAU\bin\Debug\SNAU.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\SNAU\SNAU\bin\Debug\SNAU.exe
+c:\users\артем\documents\visual studio 2015\Projects\SNAU\SNAU\bin\Debug\SNAU.pdb
+c:\users\артем\documents\visual studio 2015\Projects\SNAU\SNAU\obj\Debug\SNAU.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\SNAU\SNAU\obj\Debug\SNAU.exe
+c:\users\артем\documents\visual studio 2015\Projects\SNAU\SNAU\obj\Debug\SNAU.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\NAU\SNAU\bin\Debug\SNAU.exe.config
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\NAU\SNAU\obj\Debug\SNAU.exe
+C:\Users\Артем\Documents\Visual Studio 2015\ChisMET\NAU\SNAU\obj\Debug\SNAU.pdb

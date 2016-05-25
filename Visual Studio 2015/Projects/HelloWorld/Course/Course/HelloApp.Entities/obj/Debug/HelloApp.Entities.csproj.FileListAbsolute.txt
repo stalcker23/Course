@@ -1,0 +1,4 @@
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Entities\bin\Debug\HelloApp.Entities.dll
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Entities\bin\Debug\HelloApp.Entities.pdb
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Entities\obj\Debug\HelloApp.Entities.dll
+C:\Users\Артем\documents\visual studio 2015\Projects\HelloWorld\HelloApp.Entities\obj\Debug\HelloApp.Entities.pdb

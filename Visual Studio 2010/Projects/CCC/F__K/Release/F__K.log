@@ -1,0 +1,19 @@
+﻿Build started 12.04.2015 20:00:29.
+     1>Project "C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\F__K\F__K.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\F__K.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       SetVCMKLEnvironment:
+         Deleting file "C:\Users\1\AppData\Local\Temp\tmp3A03.tmp".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         F__K.vcxproj -> C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\Release\F__K.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\F__K.unsuccessfulbuild".
+         Touching "Release\F__K.lastbuildstate".
+     1>Done Building Project "C:\Users\1\Documents\Visual Studio 2010\Projects\CCC\F__K\F__K.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14

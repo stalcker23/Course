@@ -1,0 +1,5 @@
+c:\users\artyom\documents\visual studio 2010\Projects\KP_StringBuilder\KP_StringBuilder\bin\Debug\KP_StringBuilder.exe
+c:\users\artyom\documents\visual studio 2010\Projects\KP_StringBuilder\KP_StringBuilder\bin\Debug\KP_StringBuilder.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\KP_StringBuilder\KP_StringBuilder\obj\x86\Debug\KP_StringBuilder.exe
+c:\users\artyom\documents\visual studio 2010\Projects\KP_StringBuilder\KP_StringBuilder\obj\x86\Debug\KP_StringBuilder.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\KP_StringBuilder\KP_StringBuilder\obj\x86\Debug\KP_StringBuilder.csprojResolveAssemblyReference.cache

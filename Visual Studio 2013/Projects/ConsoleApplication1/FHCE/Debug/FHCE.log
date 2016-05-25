@@ -1,0 +1,10 @@
+﻿Сборка начата 06.04.2015 15:36:11.
+     1>Проект "C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FHCE\FHCE.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FHCE.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         FHCE.vcxproj -> C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Debug\FFTW.exe
+     1>Сборка проекта "C:\Users\1\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FHCE\FHCE.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.44

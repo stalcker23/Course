@@ -1,0 +1,4 @@
+c:\users\artyom\documents\visual studio 2010\Projects\5.3.20\5.3.20\bin\Debug\5.3.20.exe
+c:\users\artyom\documents\visual studio 2010\Projects\5.3.20\5.3.20\bin\Debug\5.3.20.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\5.3.20\5.3.20\obj\x86\Debug\5.3.20.exe
+c:\users\artyom\documents\visual studio 2010\Projects\5.3.20\5.3.20\obj\x86\Debug\5.3.20.pdb

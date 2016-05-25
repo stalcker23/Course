@@ -1,0 +1,7 @@
+c:\users\artyom\documents\visual studio 2010\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
+c:\users\artyom\documents\visual studio 2010\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\Triangle\Triangle\obj\x86\Debug\Triangle.exe
+c:\users\artyom\documents\visual studio 2010\Projects\Triangle\Triangle\obj\x86\Debug\Triangle.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\Triangle\Triangle\obj\x86\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2010\Projects\Triangle\Triangle\obj\x86\Debug\Triangle.exe
+C:\Users\1\Documents\Visual Studio 2010\Projects\Triangle\Triangle\obj\x86\Debug\Triangle.pdb

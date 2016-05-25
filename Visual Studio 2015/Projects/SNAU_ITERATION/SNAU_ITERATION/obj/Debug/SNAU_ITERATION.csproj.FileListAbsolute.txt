@@ -1,0 +1,6 @@
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_ITERATION\SNAU_ITERATION\bin\Debug\SNAU_ITERATION.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_ITERATION\SNAU_ITERATION\bin\Debug\SNAU_ITERATION.exe
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_ITERATION\SNAU_ITERATION\bin\Debug\SNAU_ITERATION.pdb
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_ITERATION\SNAU_ITERATION\obj\Debug\SNAU_ITERATION.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_ITERATION\SNAU_ITERATION\obj\Debug\SNAU_ITERATION.exe
+c:\users\артем\documents\visual studio 2015\Projects\SNAU_ITERATION\SNAU_ITERATION\obj\Debug\SNAU_ITERATION.pdb

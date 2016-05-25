@@ -1,0 +1,64 @@
+#include "stdafx.h"
+#include<iostream>
+#include<cstdio>
+#include<vector>
+#include<list>
+#include<algorithm>
+#include<stack>
+#include<queue>
+using namespace std;
+int power(int a, int n)
+{
+	if(n==0)return 1;
+	if(n==1) return a;
+	return a*power(a,n-1);
+}
+int numberSwapper(int a)
+	{
+		int n=0;
+		int i=1;
+		queue<int> temp;
+	while(a!=0)
+	{
+
+		temp.push(a%10);
+		a/=10;
+		i++;
+	}
+i--;
+for(int tempi=i;tempi>0;tempi--)
+{
+n+=temp.front()*power(10,tempi);
+temp.pop();
+}
+return n/10;
+
+	}
+int main()
+{
+	
+	freopen("input.txt","r",stdin);
+	freopen("output.txt","w",stdout);
+	list<int> a;
+	
+	int n;
+	while(cin>>n)
+		a.push_back(n);
+	list<int>::iterator it=a.begin();
+	
+
+it++;
+a.insert(it,numberSwapper(*it));
+it=a.end();
+it--;
+cout << *it<< endl;
+a.insert(it,numberSwapper(*it));
+it=a.end();
+it--;
+while(!a.empty())
+{
+	cout<<a.front()<< " ";
+	a.pop_front();
+
+}
+}

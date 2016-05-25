@@ -1,0 +1,27 @@
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\bin\Debug\21.II.exe.config
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\bin\Debug\21.II.exe
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\bin\Debug\21.II.pdb
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\obj\Debug\21.II.csprojResolveAssemblyReference.cache
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\obj\Debug\_21.II.Form1.resources
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\obj\Debug\_21.II.Properties.Resources.resources
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\obj\Debug\21.II.csproj.GenerateResource.Cache
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\obj\Debug\21.II.exe
+c:\users\мария\documents\visual studio 2013\Projects\21.II\21.II\obj\Debug\21.II.pdb
+C:\Users\1\Desktop\21.II\21.II\bin\Debug\21.II.exe.config
+C:\Users\1\Desktop\21.II\21.II\obj\Debug\21.II.exe
+C:\Users\1\Desktop\21.II\21.II\obj\Debug\21.II.pdb
+C:\Users\1\Desktop\21.II\21.II\bin\Debug\21.II.exe
+C:\Users\1\Desktop\21.II\21.II\bin\Debug\21.II.pdb
+C:\Users\1\Desktop\21.II\21.II\obj\Debug\21.II.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\21.II\21.II\obj\Debug\_21.II.Form1.resources
+C:\Users\1\Desktop\21.II\21.II\obj\Debug\_21.II.Properties.Resources.resources
+C:\Users\1\Desktop\21.II\21.II\obj\Debug\21.II.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\bin\Debug\21.II.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\obj\Debug\21.II.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\obj\Debug\21.II.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\bin\Debug\21.II.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\bin\Debug\21.II.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\obj\Debug\21.II.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\obj\Debug\_21.II.Form1.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\obj\Debug\_21.II.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\21.II\21.II\obj\Debug\21.II.csproj.GenerateResource.Cache

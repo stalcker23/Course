@@ -1,0 +1,5 @@
+c:\users\artyom\documents\visual studio 2010\Projects\КР_String1\КР_String1\bin\Debug\КР_String1.exe
+c:\users\artyom\documents\visual studio 2010\Projects\КР_String1\КР_String1\bin\Debug\КР_String1.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\КР_String1\КР_String1\obj\x86\Debug\КР_String1.exe
+c:\users\artyom\documents\visual studio 2010\Projects\КР_String1\КР_String1\obj\x86\Debug\КР_String1.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\КР_String1\КР_String1\obj\x86\Debug\КР_String1.csprojResolveAssemblyReference.cache

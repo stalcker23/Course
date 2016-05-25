@@ -1,0 +1,4 @@
+c:\users\artyom\documents\visual studio 2010\Projects\KP_StringBuilder2\KP_StringBuilder2\bin\Debug\KP_StringBuilder2.exe
+c:\users\artyom\documents\visual studio 2010\Projects\KP_StringBuilder2\KP_StringBuilder2\bin\Debug\KP_StringBuilder2.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\KP_StringBuilder2\KP_StringBuilder2\obj\x86\Debug\KP_StringBuilder2.exe
+c:\users\artyom\documents\visual studio 2010\Projects\KP_StringBuilder2\KP_StringBuilder2\obj\x86\Debug\KP_StringBuilder2.pdb

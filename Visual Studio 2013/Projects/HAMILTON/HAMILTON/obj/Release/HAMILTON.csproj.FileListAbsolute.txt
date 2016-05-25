@@ -1,0 +1,6 @@
+C:\Users\1\Documents\Visual Studio 2013\Projects\HAMILTON\HAMILTON\bin\Release\HAMILTON.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\HAMILTON\HAMILTON\bin\Release\HAMILTON.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\HAMILTON\HAMILTON\bin\Release\HAMILTON.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\HAMILTON\HAMILTON\obj\Release\HAMILTON.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\HAMILTON\HAMILTON\obj\Release\HAMILTON.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\HAMILTON\HAMILTON\obj\Release\HAMILTON.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\artyom\documents\visual studio 2010\Projects\18.9\18.9\bin\Debug\18.9.exe
+c:\users\artyom\documents\visual studio 2010\Projects\18.9\18.9\bin\Debug\18.9.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\18.9\18.9\obj\x86\Debug\18.9.exe
+c:\users\artyom\documents\visual studio 2010\Projects\18.9\18.9\obj\x86\Debug\18.9.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\18.9\18.9\obj\x86\Debug\18.9.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\5.4.8\5.4.8\bin\Debug\5.4.8.exe
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\5.4.8\5.4.8\bin\Debug\5.4.8.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\5.4.8\5.4.8\obj\x86\Debug\5.4.8.exe
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\5.4.8\5.4.8\obj\x86\Debug\5.4.8.pdb

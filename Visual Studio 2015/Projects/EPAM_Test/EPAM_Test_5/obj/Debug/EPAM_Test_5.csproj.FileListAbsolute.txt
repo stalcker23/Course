@@ -1,0 +1,5 @@
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_5\bin\Debug\EPAM_Test_5.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_5\bin\Debug\EPAM_Test_5.exe
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_5\bin\Debug\EPAM_Test_5.pdb
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_5\obj\Debug\EPAM_Test_5.exe
+c:\users\артем\documents\visual studio 2015\Projects\EPAM_Test\EPAM_Test_5\obj\Debug\EPAM_Test_5.pdb

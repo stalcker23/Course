@@ -1,0 +1,5 @@
+c:\users\artyom\documents\visual studio 2010\Projects\Практикум 5.3.20\Практикум 5.3.20\bin\Debug\Практикум 5.3.20.exe
+c:\users\artyom\documents\visual studio 2010\Projects\Практикум 5.3.20\Практикум 5.3.20\bin\Debug\Практикум 5.3.20.pdb
+c:\users\artyom\documents\visual studio 2010\Projects\Практикум 5.3.20\Практикум 5.3.20\obj\x86\Debug\Практикум 5.3.20.exe
+c:\users\artyom\documents\visual studio 2010\Projects\Практикум 5.3.20\Практикум 5.3.20\obj\x86\Debug\Практикум 5.3.20.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\Практикум 5.3.20\Практикум 5.3.20\obj\x86\Debug\Практикум 5.3.20.csprojResolveAssemblyReference.cache

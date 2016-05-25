@@ -1,0 +1,9 @@
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\bin\Debug\Race.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\obj\Debug\Race.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\obj\Debug\Race.Properties.Resources.resources
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\obj\Debug\Race.csproj.GenerateResource.Cache
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\bin\Debug\Race.exe
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\bin\Debug\Race.pdb
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\obj\Debug\Race.exe
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\obj\Debug\Race.pdb
+c:\users\артем\documents\visual studio 2015\Projects\Race\Race\obj\Debug\Race.Form1.resources

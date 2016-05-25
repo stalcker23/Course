@@ -1,0 +1,4 @@
+c:\users\1\documents\visual studio 2010\Projects\КР\КР\bin\Debug\КР.exe
+c:\users\1\documents\visual studio 2010\Projects\КР\КР\bin\Debug\КР.pdb
+c:\users\1\documents\visual studio 2010\Projects\КР\КР\obj\x86\Debug\КР.exe
+c:\users\1\documents\visual studio 2010\Projects\КР\КР\obj\x86\Debug\КР.pdb

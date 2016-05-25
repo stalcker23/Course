@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(131): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+main.cpp(185): warning C4101: 'finish' : unreferenced local variable
+main.cpp(185): warning C4101: 'start' : unreferenced local variable
+main.cpp(185): warning C4101: 'duration' : unreferenced local variable
+  Generating code
+  Finished generating code
+  SerialNonrecursiveFFT.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2012\Projects\Classes\C++\FFT\Release\SerialNonrecursiveFFT.exe

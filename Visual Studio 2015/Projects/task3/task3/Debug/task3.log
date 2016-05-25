@@ -1,0 +1,53 @@
+﻿Сборка начата 01.04.2016 23:37:53.
+     1>Проект "c:\Users\Артем\documents\visual studio 2015\Projects\task3\task3\task3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Form1.cpp
+         Form1.cpp
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(145): warning C4101: c: неиспользованная локальная переменная
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(226): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(235): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(303): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(454): warning C4101: T1: неиспользованная локальная переменная
+     1>C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2600): warning C4996: 'std::_Move': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2586): note:  см. объявление "std::_Move"
+         c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(322): note: см. ссылку на создание экземпляров функции шаблон при компиляции "_OutIt std::move<int,mat>(_InIt,_InIt,_OutIt)"
+                 with
+                 [
+                     _OutIt=mat,
+                     _InIt=int
+                 ]
+     1>C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(838): error C2893: Сбой при специализации функции-шаблона "iterator_traits<_Iter>::iterator_category std::_Iter_cat(const _Iter &)"
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(838): note: Со следующими аргументами шаблона:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(838): note: "_Iter=int"
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2598): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void std::_Debug_range_ptr<_InIt,_OutIt>(_InIt,_InIt,_Pty &,std::_Dbfile_t,std::_Dbline_t)"
+                 with
+                 [
+                     _InIt=int,
+                     _OutIt=mat,
+                     _Pty=mat
+                 ]
+         c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(322): note: см. ссылку на создание экземпляров функции шаблон при компиляции "_OutIt std::move<int,mat>(_InIt,_InIt,_OutIt)"
+                 with
+                 [
+                     _OutIt=mat,
+                     _InIt=int
+                 ]
+     1>C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(838): error C2780: void std::_Debug_range_ptr2(_RanIt,_RanIt,_Pty &,std::_Dbfile_t,std::_Dbline_t,std::random_access_iterator_tag): требует аргументов: 6, имеется: 5
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(820): note:  см. объявление "std::_Debug_range_ptr2"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(838): error C2780: void std::_Debug_range_ptr2(_InIt,_InIt,_Pty &,std::_Dbfile_t,std::_Dbline_t,std::input_iterator_tag): требует аргументов: 6, имеется: 5
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(811): note:  см. объявление "std::_Debug_range_ptr2"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2590): error C2893: Сбой при специализации функции-шаблона "iterator_traits<_Iter>::iterator_category std::_Iter_cat(const _Iter &)"
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2590): note: Со следующими аргументами шаблона:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2590): note: "_Iter=int"
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2600): note: см. ссылку на создание экземпляров функции шаблон при компиляции "_OutIt std::_Move<_Iter,_OutIt>(_InIt,_InIt,_OutIt,std::false_type)"
+                 with
+                 [
+                     _OutIt=mat,
+                     _Iter=int,
+                     _InIt=int
+                 ]
+     1>Сборка проекта "c:\Users\Артем\documents\visual studio 2015\Projects\task3\task3\task3.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.99

@@ -1,0 +1,12 @@
+c:\users\1\documents\visual studio 2013\Projects\Practice\Practice\bin\Debug\Practice.exe.config
+c:\users\1\documents\visual studio 2013\Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2013\Projects\Practice\Practice\bin\Debug\Practice.exe
+c:\users\1\documents\visual studio 2013\Projects\Practice\Practice\bin\Debug\Practice.pdb
+c:\users\1\documents\visual studio 2013\Projects\Practice\Practice\obj\Debug\Practice.exe
+c:\users\1\documents\visual studio 2013\Projects\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache

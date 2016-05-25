@@ -1,0 +1,36 @@
+﻿Сборка начата 01.04.2016 23:43:35.
+     1>Проект "c:\Users\Артем\documents\visual studio 2015\Projects\task3\task3\task3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Form1.cpp
+         Form1.cpp
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(145): warning C4101: c: неиспользованная локальная переменная
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(226): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(235): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(303): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(454): warning C4101: T1: неиспользованная локальная переменная
+     1>C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2517): error C2675: унарный "++": "mat" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2539): note: см. ссылку на создание экземпляров функции шаблон при компиляции "_OutIt std::_Move<_InIt,_OutIt>(_InIt,_InIt,_OutIt,std::_Nonscalar_ptr_iterator_tag)"
+                 with
+                 [
+                     _OutIt=mat,
+                     _InIt=int
+                 ]
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2550): note: см. ссылку на создание экземпляров функции шаблон при компиляции "_OutIt std::_Move<_Iter,std::array<vec,3>>(_InIt,_InIt,_OutIt)"
+                 with
+                 [
+                     _OutIt=mat,
+                     _Iter=int,
+                     _InIt=int
+                 ]
+         c:\users\артем\documents\visual studio 2015\projects\task3\task3\Form1.h(322): note: см. ссылку на создание экземпляров функции шаблон при компиляции "_OutIt std::move<int,mat>(_InIt,_InIt,_OutIt)"
+                 with
+                 [
+                     _OutIt=mat,
+                     _InIt=int
+                 ]
+     1>C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2518): error C2100: недопустимое косвенное обращение
+     1>Сборка проекта "c:\Users\Артем\documents\visual studio 2015\Projects\task3\task3\task3.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.16

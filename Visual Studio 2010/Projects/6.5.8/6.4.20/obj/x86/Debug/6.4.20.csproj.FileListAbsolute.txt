@@ -1,0 +1,10 @@
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.4.20\6.4.20\bin\Debug\6.4.20.exe
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.4.20\6.4.20\bin\Debug\6.4.20.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.4.20\6.4.20\obj\x86\Debug\6.4.20.csprojResolveAssemblyReference.cache
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.4.20\6.4.20\obj\x86\Debug\6.4.20.exe
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.4.20\6.4.20\obj\x86\Debug\6.4.20.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.5.8\6.4.20\obj\x86\Debug\6.4.20.exe
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.5.8\6.4.20\obj\x86\Debug\6.4.20.pdb
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.5.8\6.4.20\obj\x86\Debug\6.4.20.csprojResolveAssemblyReference.cache
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.5.8\6.4.20\bin\Debug\6.4.20.exe
+C:\Users\Artyom\Documents\Visual Studio 2010\Projects\6.5.8\6.4.20\bin\Debug\6.4.20.pdb
